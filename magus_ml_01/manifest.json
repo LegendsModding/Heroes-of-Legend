@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Magus Miclee",
+    "min_engine_version": [1, 16, 0],
+    "name": "Magus Miclee",
+    "uuid": "55ec04b4-39dc-4ad7-b9db-6b6e9b860e41",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "75cf53c8-200e-49e8-b072-fa2733426336",
+      "version": [1, 0, 0]
+    }
+  ]
+}

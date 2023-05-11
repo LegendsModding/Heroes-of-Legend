@@ -1,0 +1,20 @@
+{
+  "format_version": "1.8.0",
+  "mat_hero_basic_ml_04:base_entity": {
+    "pass": "transparent",
+    "depthprepass": false,
+    "uniforms": {
+      "BaseColor": [
+        "1.0",
+        "1.0",
+        "1.0",
+        "0.75"
+      ]
+    },
+    "textures": {
+      "diffuseMap": "textures/entity/hero/tex_hero_basic_ml_04_d", 
+      "coeffMap": "textures/entity/hero/tex_hero_basic_ml_04_mr",
+      "normalMap": "textures/entity/hero/tex_hero_basic_ml_04_n"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+
+  "render_controllers": {
+
+    "controller.render.hero_champion_ml_03": {
+
+      "geometry": "geometry.default",
+
+      "materials":  [
+
+        {
+
+          "mat_hero_champion_ml_03": "MetaMaterial.mat_hero_champion_ml_03"
+
+        },
+
+        {
+
+          "mat_hero_champion_ml_03_face": "MetaMaterial.mat_hero_champion_ml_03_face"
+
+        }
+
+      ]
+
+    }
+
+  },
+
+  "format_version": "1.8.0"
+
+}
+

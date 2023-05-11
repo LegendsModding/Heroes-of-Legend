@@ -1,0 +1,10 @@
+{
+  "format_version": "1.8.0", 
+  "mat_hero_basic_ml_09:base_entity_hero": {
+    "textures": {
+      "diffuseMap": "textures/entity/hero/tex_hero_basic_ml_09_d", 
+      "coeffMap": "textures/entity/hero/tex_hero_basic_ml_09_mr",
+      "normalMap": "textures/entity/hero/tex_hero_basic_ml_09_n"
+    }
+  }
+}

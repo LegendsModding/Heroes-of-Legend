@@ -1,0 +1,9 @@
+{
+    "meta_data": {
+        "sRGB": false,
+        "wrap_u": "Wrap",
+        "wrap_v": "Wrap",
+        "filter_min": "Point",
+        "filter_mag": "Point"
+    }
+}

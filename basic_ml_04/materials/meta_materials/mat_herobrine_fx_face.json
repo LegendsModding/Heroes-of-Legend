@@ -1,0 +1,67 @@
+{
+  "format_version": "1.8.0",
+  "mat_herobrine_fx_face:base_lure": {
+    "depthprepass": false,
+    "pass": "transparent",
+    "textures": {
+      "noiseMap": "textures/shared/tex_shared_noise_16"
+    },
+    "target_uniform_blocks": [ "ParamsLure" ],
+    "uniforms": {
+      "BaseColor": [
+        "0.0",
+        "0.0",
+        "1.0",
+        "0.01"
+      ],
+      "MatColor": [
+        "0.025",
+        "0.1",
+        "1.0",
+        "0.01"
+      ],
+      "LumaMinMax": [
+        "0.3",
+        "1.0",
+        "0.0",
+        "0.1"
+      ],
+      "ShimmerColor": [
+        "0.25",
+        "0.875",
+        "1.0",
+        "0.5"
+      ],
+      "LureParams0": [
+        "0.015",
+        "0.075",
+        "0.0",
+        "0.5"
+      ],
+      "LureParams1": [
+        "4.0",
+        "6.0",
+        "0.25",
+        "0.0"
+      ],
+      "LureParams2": [
+        "6.0",
+        "4.0",
+        "2.2",
+        "0.0"
+      ],
+      "NoiseOffsetScale": [
+        "0.0",
+        "0.0",
+        "1.0",
+        "1.0"
+      ],
+      "NoiseAnimOffset": [
+        "0.004",
+        "0.004",
+        "0.0",
+        "0.0"
+      ]
+    }
+  }
+}

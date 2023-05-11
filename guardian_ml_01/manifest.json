@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Guardian Miclee",
+    "min_engine_version": [1, 16, 0],
+    "name": "Guardian Miclee",
+    "uuid": "e8bbaa9e-5ff6-4d25-9e84-aeea49117698",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "5e70f873-a7ba-46e4-acc7-dc01bdbf0d10",
+      "version": [1, 0, 0]
+    }
+  ]
+}

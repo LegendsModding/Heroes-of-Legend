@@ -1,0 +1,11 @@
+{
+    "icon": "dlc_data/icon.png",
+    "icon_alt": "dlc_data/icon_alt.png",
+    "reward_icon": "",
+
+    "name": "badger:hero_basic_ml_12",
+    "pack_id": "basic_ml_12",
+    "type": "resource",
+	"rarity": 0
+  }
+  

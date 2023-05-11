@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Warrior Miclee 3",
+    "min_engine_version": [1, 16, 0],
+    "name": "Warrior Miclee 3",
+    "uuid": "b0a79008-0c02-4f52-96f5-c4a41bb46275",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "224c876e-b92a-4435-b91c-b968d2c88c76",
+      "version": [1, 0, 0]
+    }
+  ]
+}

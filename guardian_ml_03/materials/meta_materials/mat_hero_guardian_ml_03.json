@@ -1,0 +1,10 @@
+{
+  "format_version": "1.8.0", 
+  "mat_hero_guardian_ml_03:base_entity_hero": {
+    "textures": {
+      "diffuseMap": "textures/entity/hero/tex_hero_guardian_ml_03_d", 
+      "coeffMap": "textures/entity/hero/tex_hero_guardian_ml_03_mr",
+      "normalMap": "textures/entity/hero/tex_hero_guardian_ml_03_n"
+    }
+  }
+}

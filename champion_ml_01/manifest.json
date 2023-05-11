@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Champion Miclee",
+    "min_engine_version": [1, 16, 0],
+    "name": "Champion Miclee",
+    "uuid": "0317c3b3-b576-4b89-b869-3a213c8a37d4",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a9206328-bfc7-4e68-8587-3b1f0fa92d50",
+      "version": [1, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Ranger Miclee 2",
+    "min_engine_version": [1, 16, 0],
+    "name": "Ranger Miclee 2",
+    "uuid": "1e1caed7-8246-4a09-a486-5add3ead170c",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "1f0fba6c-20fc-4bb8-a586-5af66e1b559a",
+      "version": [1, 0, 0]
+    }
+  ]
+}
