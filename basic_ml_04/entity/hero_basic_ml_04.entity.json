@@ -39,6 +39,12 @@
                 "fx_sword_sparks": "badger:fx_hero_sword_sparks"
             },
             "render_controllers": ["controller.render.hero_basic_ml_04"],
+            "scripts": {
+                "initialize": [
+                  "variable.second_skin_vis = 1;"
+                ],
+                "pre_animation": [ "variable.is_frontend ? { variable.second_skin_vis = 1; };" ]
+              },
             "sound_effects": {
                 "death_music_stinger": "BAE_mus_stinger_hero_death",
                 "direct": "BAE_hero_direct",

@@ -1,0 +1,57 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "components": {
+            "badger:rendering": {
+                "definition": "badger:hero_jeb_ml_01",
+                "limit": 64
+            },
+            "badger:skin": {
+                "archetype": "minecraft:player",
+                "fe_anim": "guardian_frontend_alt"
+            },
+            "badger:template": ["minecraft:player"]
+        },
+        "description": {
+            "enable_attachables": false,
+            "event_scripts": {
+                "direct_trigger": "variable.direct_state = 1;",
+                "lure_trigger": "variable.lure_state = 1;",
+                "stop_lure_trigger": "variable.stop_lure_state = 1;"
+            },
+            "face_poses": ["Neutral", "Neutral Blink", "Happy", "Happy Blink", "Not Impressed", "Afraid", "Stunned", "Yelling", "Determined", "Blink Hard", "Worried", "Incredulous", "Smile Lookleft", "Smile Lookright", "Happy Eyes", "Happy Smirk", "Blush Eyesclosed", "Angry Shout"],
+            "geometry": {
+                "base": "geometry.hero_ranger_bg_01",
+                "default": "geometry.hero_jeb_ml_01"
+            },
+            "identifier": "badger:hero_jeb_ml_01",
+            "materials": {
+                "mat_hero_jeb_ml_01": "mat_hero_jeb_ml_01",
+                "mat_hero_jeb_ml_01_face": "mat_hero_jeb_ml_01_face"
+            },
+            "particle_effects": {
+                "fx_lute_notes": "badger:fx_hero_lute_notes",
+                "fx_mount_swap": "badger:fx_hero_mount_swap",
+                "fx_swipe": "badger:fx_hero_sword_swipe_01",
+                "fx_swipe02": "badger:fx_hero_sword_swipe_02",
+                "fx_sword_sparks": "badger:fx_hero_sword_sparks"
+            },
+            "render_controllers": ["controller.render.hero_jeb_ml_01"],
+            "sound_effects": {
+                "death_music_stinger": "BAE_mus_stinger_hero_death",
+                "direct": "BAE_hero_direct",
+                "direct_placed": "BAE_hero_direct_placed",
+                "lure": "BAE_hero_lure",
+                "lure_placed": "BAE_hero_lure_placed",
+                "patpat": "BAE_hero_allay_celebration",
+                "step": "BAE_hero_step_stone",
+                "sword_attack": "BAE_hero_sword_attack",
+                "sword_attack_deflect": "BAE_hero_sword_attack_deflect",
+                "sword_attack_miss": "BAE_hero_sword_attack_miss"
+            },
+            "trail_effects": {
+                "fx_sword_h_a": "badger:trail_hero_sword_swing_h_a"
+            }
+        }
+    }
+}

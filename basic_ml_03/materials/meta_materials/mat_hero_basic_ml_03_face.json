@@ -4,14 +4,16 @@
     "textures": {
       "diffuseMap": "textures/entity/hero/tex_hero_basic_ml_03_face_d",
       "coeffMap": "textures/entity/hero/tex_hero_basic_ml_03_face_mr",
-      "normalMap": "textures/entity/hero/tex_hero_basic_ml_03_face_n"
+      "normalMap": "textures/entity/hero/tex_hero_basic_ml_03_face_n",
+	  "emissiveMap": "textures/entity/hero/tex_hero_basic_ml_03_face_e"
     }
   },
   "mat_hero_basic_ml_03_face_ui:ui_entity_face": {
     "textures": {
       "diffuseMap": "textures/entity/hero/tex_hero_basic_ml_03_face_d",
       "coeffMap": "textures/entity/hero/tex_hero_basic_ml_03_face_mr",
-      "normalMap": "textures/entity/hero/tex_hero_basic_ml_03_face_n"
+      "normalMap": "textures/entity/hero/tex_hero_basic_ml_03_face_n",
+	  "emissiveMap": "textures/entity/hero/tex_hero_basic_ml_03_face_e"
     }
   }
 }

@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "min_engine_version": [1, 16, 0],
+    "name": "pack.name",
+    "uuid": "6dc2381b-3f0e-44b6-9489-1b37b296fbd0",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "69ff9ef8-9ad2-4def-ac93-599850262bb8",
+      "version": [1, 0, 0]
+    }
+  ]
+}

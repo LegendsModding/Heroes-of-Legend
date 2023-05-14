@@ -1,0 +1,32 @@
+{
+
+  "render_controllers": {
+
+    "controller.render.hero_basic_ml_14": {
+
+      "geometry": "geometry.default",
+
+      "materials":  [
+
+        {
+
+          "mat_hero_basic_ml_14": "MetaMaterial.mat_hero_basic_ml_14"
+
+        },
+
+        {
+
+          "mat_hero_basic_ml_14_face": "MetaMaterial.mat_hero_basic_ml_14_face"
+
+        }
+
+      ]
+
+    }
+
+  },
+
+  "format_version": "1.8.0"
+
+}
+

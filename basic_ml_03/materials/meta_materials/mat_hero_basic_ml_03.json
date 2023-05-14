@@ -1,10 +1,12 @@
 {
   "format_version": "1.8.0", 
   "mat_hero_basic_ml_03:base_entity_hero": {
+    "pass": "AlphaTest",
     "textures": {
       "diffuseMap": "textures/entity/hero/tex_hero_basic_ml_03_d", 
       "coeffMap": "textures/entity/hero/tex_hero_basic_ml_03_mr",
-      "normalMap": "textures/entity/hero/tex_hero_basic_ml_03_n"
+      "normalMap": "textures/entity/hero/tex_hero_basic_ml_03_n",
+	  "emissiveMap": "textures/entity/hero/tex_hero_basic_ml_03_e"
     }
   }
 }

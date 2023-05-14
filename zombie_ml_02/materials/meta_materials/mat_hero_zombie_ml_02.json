@@ -1,0 +1,11 @@
+{
+  "format_version": "1.8.0", 
+  "mat_hero_zombie_ml_02:base_entity_hero": {
+    "pass": "AlphaTest",
+    "textures": {
+      "diffuseMap": "textures/entity/hero/tex_hero_zombie_ml_02_d", 
+      "coeffMap": "textures/entity/hero/tex_hero_zombie_ml_02_mr",
+      "normalMap": "textures/entity/hero/tex_hero_zombie_ml_02_n"
+    }
+  }
+}

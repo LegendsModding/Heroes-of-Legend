@@ -25,6 +25,11 @@
         {
           "mat_herobrine_fx_face": "MetaMaterial.mat_herobrine_fx_face"
         }
+      ],
+      "part_visibility":  [
+        {
+          "second_skin": "variable.second_skin_vis"
+        }
       ]
 
     }

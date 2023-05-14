@@ -1,0 +1,32 @@
+{
+
+  "render_controllers": {
+
+    "controller.render.hero_jeb_ml_01": {
+
+      "geometry": "geometry.default",
+
+      "materials":  [
+
+        {
+
+          "mat_hero_jeb_ml_01": "MetaMaterial.mat_hero_jeb_ml_01"
+
+        },
+
+        {
+
+          "mat_hero_jeb_ml_01_face": "MetaMaterial.mat_hero_jeb_ml_01_face"
+
+        }
+
+      ]
+
+    }
+
+  },
+
+  "format_version": "1.8.0"
+
+}
+

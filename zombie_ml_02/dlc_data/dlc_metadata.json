@@ -1,0 +1,11 @@
+{
+    "icon": "dlc_data/icon.png",
+    "icon_alt": "dlc_data/icon_alt.png",
+    "reward_icon": "",
+
+    "name": "badger:hero_zombie_ml_02",
+    "pack_id": "zombie_ml_02",
+    "type": "resource",
+	"rarity": 1
+  }
+  
